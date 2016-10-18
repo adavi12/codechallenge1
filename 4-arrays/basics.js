@@ -4,4 +4,4 @@
 
 // 3 - Console log the value of arr1 at index 2.
 
-//4 - Console log the length of both arrays.
+// 4 - Console log the length of both arrays.
