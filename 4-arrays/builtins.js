@@ -7,6 +7,7 @@ var arr = [3, 4, 6, 0];
 // 3 - Use the sort method to order each array value from smallest to largest.
 
 /*
+-- Hard Mode --
 4 - Use the map method to halve the value of each value in the array.
 Assign the result to a new array called newArr. Console.log the new array.
 */
