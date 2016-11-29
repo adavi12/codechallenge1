@@ -5,4 +5,6 @@ var peeps = 17;
 // 3 - Decrease the value of peeps by 1
 var peeps = 16;
 // 4 - Write a console log that checks if tau is equal to peeps
-console.log(tau == peeps);
+if( tau == peeps){
+console.log(tau equals peeps);
+}
