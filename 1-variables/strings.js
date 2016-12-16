@@ -8,6 +8,6 @@ var phrase = " ";
 // 3 - Console log the length of phrase
 console.log(phrase.length);
 // 4 - Console log the word Spain by using the substring method
-console.log(phrase.substring (12,16);
+console.log(phrase.substring (12,17));
 // 5 - Add the string ". The end." to the end of the phrase variable.
 var phrase = "The rain in Spain falls gently on the plain" + ". The end."

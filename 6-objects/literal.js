@@ -14,7 +14,7 @@ var prime = {
 2 - Using dot notation, create a new property for 'prime'. This property will
     be called address and will take the value of Prime's street address.
 */
-var prime = prime.address;
+prime.address = "9401 James Ave S";
 /*
 3 - Using dot notation, create a new method for prime. This method will
     console log out the complete address of prime. Call the new property print.

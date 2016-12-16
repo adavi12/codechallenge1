@@ -18,7 +18,7 @@ var arg = function(a){
   it by two.
 */
 function divide (num){
-  num/2;
+  return num/2;
 }
 /*
 -- Hard Mode --

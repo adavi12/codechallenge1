@@ -3,8 +3,9 @@
 var first = 3;
 var second = 5;
 
-if (var first === var second);
+if (first === second){
 console.log ("Hello");
+}
 // 2 - Expand your answer above to console log "Goodbye" if the variables are not equal
 }else{
 console.log ("Goodbye");
@@ -18,6 +19,9 @@ var third = first + second;
     If 'second' is greater than 'first' assign 'third' the difference of
     'first' subtracted from 'second'.
 */
-if(second > first){
+var third;
+if(first> second){
+  third = first + second;
+}else{
   third = second - first;
 }
